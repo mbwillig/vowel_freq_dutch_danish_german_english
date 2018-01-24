@@ -1,1 +1,1 @@
-# vowel_freq_dutch_danish_german_english
+# dictionaries used from :http://www.gwicks.net/dictionaries.htm
